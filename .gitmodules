@@ -8,8 +8,8 @@
 	shallow = true
 [submodule "gcc"]
 	path = gcc
-	url = https://github.com/gcc-mirror/gcc.git
-	branch = releases/gcc-15
+	url = git@github.com:aleksapaunovic-htec/gcc.git
+	branch = riscv-be-proposal
 	shallow = true
 [submodule "glibc"]
 	path = glibc
@@ -51,8 +51,8 @@
 	shallow = true
 [submodule "llvm"]
 	path = llvm
-	url = https://github.com/llvm/llvm-project.git
-	branch = release/20.x
+	url = git@github.com:aleksapaunovic-htec/llvm-project.git
+	branch = pr/riscvbe-loadstore
 	shallow = true
 [submodule "uclibc-ng"]
 	path = uclibc-ng
