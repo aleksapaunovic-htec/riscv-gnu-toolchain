@@ -32,7 +32,8 @@
 	shallow = true
 [submodule "qemu"]
 	path = qemu
-	url = https://gitlab.com/qemu-project/qemu.git
+	url = git@github.com:djtodoro/qemu.git
+	branch = riscv-be-proposal
 	shallow = true
 [submodule "musl"]
 	path = musl
