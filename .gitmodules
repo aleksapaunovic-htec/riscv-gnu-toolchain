@@ -32,7 +32,7 @@
 [submodule "qemu"]
 	path = qemu
 	url = git@github.com:djtodoro/qemu.git
-	branch = riscv-be-proposal
+	branch = riscv-be-current
 	shallow = true
 [submodule "musl"]
 	path = musl
